@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Palancia</name>
+    </assembly>
+    <members>
+        <member name="M:Palancia.Controllers.TiposController.Get(Palancia.Models.Request.PoblacionFilter)">
+            <summary>
+            Obtenemos todos los tipos
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
